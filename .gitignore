@@ -1,0 +1,18 @@
+
+# SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# OS/Editors
+.DS_Store
+*.swp
