@@ -5,7 +5,7 @@ This repo contains scripts to generate a SQLite database from the PASCAL VOC 201
 
 ## Prereqs
 - Python 3.9+
-- `pip install -r requirements.txt`
+- `pip install -r environment.yml`
 
 ## Dataset
 Download PASCAL VOC 2012 and note the path to the folder that contains:
