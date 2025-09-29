@@ -1,6 +1,8 @@
 
 # SQLite
 *.db
+!COCO/coco2017_slide.db
+
 *.db-shm
 *.db-wal
 
